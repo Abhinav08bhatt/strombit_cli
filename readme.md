@@ -1,5 +1,5 @@
 # `stormbit.py`
-Solution for the [weather-api](https://roadmap.sh/projects/weather-api-wrapper) challenge from [roadmap.sh](https://roadmap.sh).
+Solution for the [weather-api](https://roadmap.sh/projects/weather-api-wrapper-service) challenge from [roadmap.sh](https://roadmap.sh).
 
 A command-line weather application built in Python that fetches real-time weather data using the Visual Crossing API.  
 Supports **current weather**, **hourly forecast**, **7-day forecast**, and **location handling** with a simple menu-based interface.
