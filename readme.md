@@ -11,10 +11,10 @@ Supports **current weather**, **hourly forecast**, **7-day forecast**, and **loc
 Clone the repository and run:
 
 ```bash
-git clone https://github.com/Abhinav08bhatt/stormbit.git
+git clone https://github.com/Abhinav08bhatt/stormbit_cli.git
 ```
 ```bash
-cd stormbit
+cd stormbit_cli
 ```
 ```bash
 python main.py
